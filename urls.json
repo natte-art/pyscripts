@@ -1,0 +1,22 @@
+{
+    "social": [
+        "https://www.instagram.com/",
+        "https://x.com/home",
+        "https://bsky.app/"
+    ],
+    "dev": [
+        "https://www.youtube.com",
+        "https://www.slack.com",
+        "https://github.com/",
+        "https://app.daily.dev/",
+        "https://claude.ai/new"
+    ],
+    "side": [
+        "https://rubyonrails.org/docs/tutorials",
+        "https://go.dev/tour/welcome/3",
+        "https://www.ruby-lang.org/en/documentation/"
+    ],
+    "network": [
+        "https://mail.google.com/mail/u/0/#inbox"
+    ]
+}
