@@ -1,4 +1,5 @@
 [
     "Use try-catch blocks to handle exceptions and prevent code crashes, ensuring a more robust and reliable application.",
-    "Use 'const' by default and change to 'let' when reassignment is necessary to reduce bugs and improve code readability."
+    "Use 'const' by default and change to 'let' when reassignment is necessary to reduce bugs and improve code readability.",
+    "Use a consistent naming convention and keep variable names descriptive to improve code readability and maintainability."
 ]
