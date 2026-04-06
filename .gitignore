@@ -4,4 +4,3 @@ twitter_tokens.json
 .env
 .venv
 __pycache__
-post_history.json
