@@ -2,7 +2,8 @@
     "social": [
         "https://www.instagram.com/",
         "https://x.com/home",
-        "https://bsky.app/"
+        "https://bsky.app/",
+        "http://localhost/rooms/1"
     ],
     "dev": [
         "https://www.youtube.com",
