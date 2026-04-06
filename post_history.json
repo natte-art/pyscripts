@@ -1,3 +1,4 @@
 [
-    "Use try-catch blocks to handle exceptions and prevent code crashes, ensuring a more robust and reliable application."
+    "Use try-catch blocks to handle exceptions and prevent code crashes, ensuring a more robust and reliable application.",
+    "Use 'const' by default and change to 'let' when reassignment is necessary to reduce bugs and improve code readability."
 ]
