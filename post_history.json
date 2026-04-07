@@ -2,5 +2,6 @@
     "Use try-catch blocks to handle exceptions and prevent code crashes, ensuring a more robust and reliable application.",
     "Use 'const' by default and change to 'let' when reassignment is necessary to reduce bugs and improve code readability.",
     "Use a consistent naming convention and keep variable names descriptive to improve code readability and maintainability.",
-    "Use meaningfully named variables and functions to improve code readability and maintainability, reducing debug time."
+    "Use meaningfully named variables and functions to improve code readability and maintainability, reducing debug time.",
+    "Use meaningful variable names and consider the future maintainer of your code, as they may be yourself."
 ]
