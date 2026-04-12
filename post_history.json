@@ -22,5 +22,6 @@
     "Use meaningful variable names and include comments to explain complex code sections for easier debugging and maintenance.",
     "Use meaningful variable names and follow a consistent naming convention to improve code readability and maintainability.",
     "Why do programmers prefer dark mode? Because light attracts bugs.",
-    "Use a linter and code formatter to catch errors and maintain consistent code styling across your projects."
+    "Use a linter and code formatter to catch errors and maintain consistent code styling across your projects.",
+    "Why do programmers prefer dark mode? Because light attracts bugs."
 ]
