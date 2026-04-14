@@ -29,5 +29,6 @@
     "Use meaningful variable names to improve code readability, making it easier to understand and maintain your projects.",
     "Why do programmers prefer dark mode? Because light attracts bugs.",
     "Why do programmers prefer dark mode? Because light attracts bugs.",
-    "Why do programmers prefer dark mode? Because light attracts bugs."
+    "Why do programmers prefer dark mode? Because light attracts bugs.",
+    "Use console.table() to log complex data structures in a readable format, making debugging easier and more efficient."
 ]
