@@ -36,5 +36,6 @@
     "Use meaningful variable names and consider adding comments to explain complex code sections for easier maintenance and debugging.",
     "Use early returns to simplify conditional logic and reduce nested code, improving readability and maintainability.",
     "Why do programmers prefer dark mode? Because light attracts bugs.",
-    "When debugging, use console.log() with a unique identifier to easily locate output in the console."
+    "When debugging, use console.log() with a unique identifier to easily locate output in the console.",
+    "Why do programmers prefer dark mode? Because light attracts bugs."
 ]
