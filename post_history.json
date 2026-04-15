@@ -34,5 +34,6 @@
     "When debugging, use a debugger or console logs to identify issues, rather than relying on alert boxes or manual checks.",
     "Use meaningful variable names and include comments to improve code readability and maintainability, reducing debugging time.",
     "Use meaningful variable names and consider adding comments to explain complex code sections for easier maintenance and debugging.",
-    "Use early returns to simplify conditional logic and reduce nested code, improving readability and maintainability."
+    "Use early returns to simplify conditional logic and reduce nested code, improving readability and maintainability.",
+    "Why do programmers prefer dark mode? Because light attracts bugs."
 ]
