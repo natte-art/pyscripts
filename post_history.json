@@ -38,5 +38,6 @@
     "Why do programmers prefer dark mode? Because light attracts bugs.",
     "When debugging, use console.log() with a unique identifier to easily locate output in the console.",
     "Why do programmers prefer dark mode? Because light attracts bugs.",
-    "Use meaningful variable names and include comments to improve code readability and reduce debugging time."
+    "Use meaningful variable names and include comments to improve code readability and reduce debugging time.",
+    "Use a linter to catch coding errors and enforce consistency in your code, reducing debug time and improving readability."
 ]
