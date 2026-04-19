@@ -49,5 +49,6 @@
     "Why do programmers prefer dark mode? Because light attracts bugs.",
     "Why do programmers prefer dark mode? Because light attracts bugs.",
     "Use optional chaining to safely navigate nested objects and avoid null reference errors: `obj?.prop?.subprop`.",
-    "Why do programmers prefer dark mode? Because light attracts bugs."
+    "Why do programmers prefer dark mode? Because light attracts bugs.",
+    "Use const by default, and only use let when the variable needs to be reassigned, to improve code readability and reduce bugs."
 ]
