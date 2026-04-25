@@ -74,5 +74,6 @@
     "Use optional chaining (?.) to avoid null pointer exceptions when navigating nested object properties.",
     "Use a consistent naming convention and follow the DRY principle to simplify code maintenance and reduce bugs.",
     "Use a consistent naming convention and follow the DRY principle to make your code more readable and maintainable.",
-    "Use meaningful variable names and include comments to explain complex code, making it easier for others (and yourself) to understand and maintain."
+    "Use meaningful variable names and include comments to explain complex code, making it easier for others (and yourself) to understand and maintain.",
+    "Use the DRY principle: Don't Repeat Yourself, extract common logic into reusable functions to simplify code maintenance."
 ]
