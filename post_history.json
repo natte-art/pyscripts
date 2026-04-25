@@ -72,5 +72,6 @@
     "Why do programmers prefer dark mode? Because light attracts bugs.",
     "Why do programmers prefer dark mode? Because light attracts bugs.",
     "Use optional chaining (?.) to avoid null pointer exceptions when navigating nested object properties.",
-    "Use a consistent naming convention and follow the DRY principle to simplify code maintenance and reduce bugs."
+    "Use a consistent naming convention and follow the DRY principle to simplify code maintenance and reduce bugs.",
+    "Use a consistent naming convention and follow the DRY principle to make your code more readable and maintainable."
 ]
