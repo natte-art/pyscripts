@@ -84,5 +84,6 @@
     "Use descriptive variable names and include comments to improve code readability and ease debugging.",
     "Use descriptive variable names and include comments to explain complex code for easier maintenance and debugging.",
     "Use descriptive variable names to improve code readability, reducing debugging time and making maintenance easier.",
-    "Use a linter and formatter to enforce consistent code style and catch errors early in development."
+    "Use a linter and formatter to enforce consistent code style and catch errors early in development.",
+    "Use meaningful variable names and include comments to explain complex code, improving readability and maintainability."
 ]
