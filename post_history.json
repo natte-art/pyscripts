@@ -85,5 +85,6 @@
     "Use descriptive variable names and include comments to explain complex code for easier maintenance and debugging.",
     "Use descriptive variable names to improve code readability, reducing debugging time and making maintenance easier.",
     "Use a linter and formatter to enforce consistent code style and catch errors early in development.",
-    "Use meaningful variable names and include comments to explain complex code, improving readability and maintainability."
+    "Use meaningful variable names and include comments to explain complex code, improving readability and maintainability.",
+    "Why do programmers prefer dark mode? Because light attracts bugs."
 ]
