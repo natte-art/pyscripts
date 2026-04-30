@@ -93,5 +93,6 @@
     "Why do programmers prefer dark mode? Because light attracts bugs.",
     "Use meaningful variable names and include comments to improve code readability and maintainability.",
     "Use descriptive variable names and include comments to improve code readability and maintainability, reducing debugging time.",
-    "Use const by default and let/var only when necessary to minimize unintended variable changes."
+    "Use const by default and let/var only when necessary to minimize unintended variable changes.",
+    "Use optional chaining (?.) to avoid null reference errors when accessing nested object properties."
 ]
