@@ -98,5 +98,6 @@
     "Use console.log with JSON.stringify to display complex objects in a readable format: console.log(JSON.stringify(obj, null, 2))",
     "Use a consistent naming convention and follow the DRY principle to simplify code maintenance and reduce errors.",
     "Use 'const' for variables that don't change, it improves code readability and helps catch unintended changes.",
-    "Use console.log with JSON.stringify to pretty-print complex objects in the browser console."
+    "Use console.log with JSON.stringify to pretty-print complex objects in the browser console.",
+    "Use descriptive variable names and comments to improve code readability and maintainability, making it easier for others to understand your work."
 ]
