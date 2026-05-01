@@ -96,5 +96,6 @@
     "Use const by default and let/var only when necessary to minimize unintended variable changes.",
     "Use optional chaining (?.) to avoid null reference errors when accessing nested object properties.",
     "Use console.log with JSON.stringify to display complex objects in a readable format: console.log(JSON.stringify(obj, null, 2))",
-    "Use a consistent naming convention and follow the DRY principle to simplify code maintenance and reduce errors."
+    "Use a consistent naming convention and follow the DRY principle to simplify code maintenance and reduce errors.",
+    "Use 'const' for variables that don't change, it improves code readability and helps catch unintended changes."
 ]
