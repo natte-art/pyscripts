@@ -99,5 +99,6 @@
     "Use a consistent naming convention and follow the DRY principle to simplify code maintenance and reduce errors.",
     "Use 'const' for variables that don't change, it improves code readability and helps catch unintended changes.",
     "Use console.log with JSON.stringify to pretty-print complex objects in the browser console.",
-    "Use descriptive variable names and comments to improve code readability and maintainability, making it easier for others to understand your work."
+    "Use descriptive variable names and comments to improve code readability and maintainability, making it easier for others to understand your work.",
+    "Use early returns to simplify code and reduce nested if statements, improving readability and maintainability."
 ]
