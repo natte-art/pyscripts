@@ -108,5 +108,6 @@
     "Use descriptive variable names to improve code readability, reducing debugging time and enhancing maintainability.",
     "Use early returns to simplify code and reduce nesting, making it more readable and maintainable.",
     "Why do programmers prefer dark mode? Because light attracts bugs.",
-    "Why do programmers prefer dark mode? Because light attracts bugs."
+    "Why do programmers prefer dark mode? Because light attracts bugs.",
+    "Use descriptive variable names and include comments to improve code readability and maintainability."
 ]
