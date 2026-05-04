@@ -109,5 +109,6 @@
     "Use early returns to simplify code and reduce nesting, making it more readable and maintainable.",
     "Why do programmers prefer dark mode? Because light attracts bugs.",
     "Why do programmers prefer dark mode? Because light attracts bugs.",
-    "Use descriptive variable names and include comments to improve code readability and maintainability."
+    "Use descriptive variable names and include comments to improve code readability and maintainability.",
+    "Use meaningful variable names and consider adding comments to improve code readability and maintainability."
 ]
