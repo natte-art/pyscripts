@@ -117,5 +117,6 @@
     "Why do programmers prefer dark mode? Because light attracts bugs.",
     "Use optional chaining (?.) to safely navigate nested objects and avoid null reference errors.",
     "Use console.log with JSON.stringify to print complex objects for easier debugging.",
-    "Use a linter to automatically detect and fix coding errors, improving code readability and consistency."
+    "Use a linter to automatically detect and fix coding errors, improving code readability and consistency.",
+    "Why do programmers prefer dark mode? Because light attracts bugs."
 ]
