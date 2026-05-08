@@ -123,5 +123,6 @@
     "Why do programmers prefer dark mode? Because light attracts bugs.",
     "Why do programmers prefer dark mode? Because light attracts bugs.",
     "Use early returns to simplify code and reduce nested indentation, improving readability and maintainability.",
-    "Use a consistent naming convention throughout your code to improve readability and maintainability."
+    "Use a consistent naming convention throughout your code to improve readability and maintainability.",
+    "Use meaningful variable names and comments to improve code readability, making it easier for others and yourself to understand and maintain."
 ]
