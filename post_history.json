@@ -152,5 +152,6 @@
     "Why do programmers prefer dark mode? Because light attracts bugs.",
     "Use early returns to simplify code and reduce nesting, making it easier to read and debug.",
     "Why do programmers prefer dark mode? Because light attracts bugs.",
-    "Use const by default, let when reassigned, and var when hoisted, to clarify variable intent in your code."
+    "Use const by default, let when reassigned, and var when hoisted, to clarify variable intent in your code.",
+    "Use const instead of let for variables that don't change to improve code readability and prevent unintended modifications."
 ]
