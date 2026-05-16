@@ -157,5 +157,6 @@
     "Use early returns to simplify conditional code and reduce nesting, making your code more readable and maintainable.",
     "Why do programmers prefer dark mode? Because light attracts bugs.",
     "Use early returns to simplify conditional code and reduce nesting for improved readability.",
-    "Use meaningful variable names to improve code readability, reducing debugging time and increasing maintainability."
+    "Use meaningful variable names to improve code readability, reducing debugging time and increasing maintainability.",
+    "Use descriptive variable names for better code readability, avoiding single-letter variables unless they're loop counters."
 ]
