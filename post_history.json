@@ -155,5 +155,6 @@
     "Use const by default, let when reassigned, and var when hoisted, to clarify variable intent in your code.",
     "Use const instead of let for variables that don't change to improve code readability and prevent unintended modifications.",
     "Use early returns to simplify conditional code and reduce nesting, making your code more readable and maintainable.",
-    "Why do programmers prefer dark mode? Because light attracts bugs."
+    "Why do programmers prefer dark mode? Because light attracts bugs.",
+    "Use early returns to simplify conditional code and reduce nesting for improved readability."
 ]
