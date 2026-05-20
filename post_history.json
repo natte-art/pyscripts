@@ -169,5 +169,6 @@
     "Use meaningful variable names and comments to make your code self-explanatory, reducing debugging time and improving collaboration.",
     "Use meaningful variable names and comments to make your code self-explanatory, reducing debugging time and improving maintainability.",
     "Why do programmers prefer dark mode? Because light attracts bugs.",
-    "Use early returns to simplify conditional code and reduce nesting, improving readability and maintainability."
+    "Use early returns to simplify conditional code and reduce nesting, improving readability and maintainability.",
+    "Why do programmers prefer dark mode? Because light attracts bugs."
 ]
