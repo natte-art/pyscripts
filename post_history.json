@@ -172,5 +172,6 @@
     "Use early returns to simplify conditional code and reduce nesting, improving readability and maintainability.",
     "Why do programmers prefer dark mode? Because light attracts bugs.",
     "Use descriptive variable names and include comments to explain complex code logic, making it easier for others (and yourself) to understand.",
-    "Use const by default, let when reassigning, and var when needed for function scope to maintain clarity and avoid unexpected behavior."
+    "Use const by default, let when reassigning, and var when needed for function scope to maintain clarity and avoid unexpected behavior.",
+    "Use meaningful variable names and include comments to improve code readability and maintainability."
 ]
