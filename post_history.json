@@ -175,5 +175,6 @@
     "Use const by default, let when reassigning, and var when needed for function scope to maintain clarity and avoid unexpected behavior.",
     "Use meaningful variable names and include comments to improve code readability and maintainability.",
     "Why do programmers prefer dark mode? Because light attracts bugs.",
-    "Use meaningful variable names and include comments to improve code readability and maintainability."
+    "Use meaningful variable names and include comments to improve code readability and maintainability.",
+    "Use descriptive variable names and follow a consistent naming convention to improve code readability and maintainability."
 ]
