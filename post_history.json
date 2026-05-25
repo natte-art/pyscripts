@@ -189,5 +189,6 @@
     "Use early returns to simplify code and reduce nested indentation, improving readability.",
     "Why do programmers prefer dark mode? Because light attracts bugs.",
     "Use console.log with JSON.stringify to pretty-print complex objects for easier debugging.",
-    "Why do programmers prefer dark mode? Because light attracts bugs."
+    "Why do programmers prefer dark mode? Because light attracts bugs.",
+    "Use console.log with JSON.stringify to view complex objects in the console, making debugging easier."
 ]
