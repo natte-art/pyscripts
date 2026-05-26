@@ -192,5 +192,6 @@
     "Why do programmers prefer dark mode? Because light attracts bugs.",
     "Use console.log with JSON.stringify to view complex objects in the console, making debugging easier.",
     "Why do programmers prefer dark mode? Because light attracts bugs.",
-    "Use const by default and let/var when reassignment is necessary to improve code readability and prevent unintended changes."
+    "Use const by default and let/var when reassignment is necessary to improve code readability and prevent unintended changes.",
+    "Why do programmers prefer dark mode? Because light attracts bugs."
 ]
