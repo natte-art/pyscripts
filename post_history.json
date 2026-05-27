@@ -194,5 +194,6 @@
     "Why do programmers prefer dark mode? Because light attracts bugs.",
     "Use const by default and let/var when reassignment is necessary to improve code readability and prevent unintended changes.",
     "Why do programmers prefer dark mode? Because light attracts bugs.",
-    "Use meaningful variable names and include comments to explain complex logic for easier code maintenance and debugging."
+    "Use meaningful variable names and include comments to explain complex logic for easier code maintenance and debugging.",
+    "Use meaningful variable names and comments to make your code self-explanatory and easier to maintain."
 ]
