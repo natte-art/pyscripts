@@ -200,5 +200,6 @@
     "Why do programmers prefer dark mode? Because light attracts bugs.",
     "Why do programmers prefer dark mode? Because light attracts bugs.",
     "Why do programmers prefer dark mode? Because light attracts bugs.",
-    "Use early returns to simplify conditional statements and reduce nested code."
+    "Use early returns to simplify conditional statements and reduce nested code.",
+    "Use a linter to catch formatting and syntax errors early, and consider implementing a code formatter to maintain consistent code style across your project."
 ]
