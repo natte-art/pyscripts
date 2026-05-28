@@ -199,5 +199,6 @@
     "Use a consistent naming convention and follow the DRY (Don't Repeat Yourself) principle to simplify code maintenance.",
     "Why do programmers prefer dark mode? Because light attracts bugs.",
     "Why do programmers prefer dark mode? Because light attracts bugs.",
-    "Why do programmers prefer dark mode? Because light attracts bugs."
+    "Why do programmers prefer dark mode? Because light attracts bugs.",
+    "Use early returns to simplify conditional statements and reduce nested code."
 ]
