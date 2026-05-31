@@ -211,5 +211,6 @@
     "Use const when declaring variables that don't change, it improves code readability and helps catch unintended changes.",
     "Why do programmers prefer dark mode? Because light attracts bugs.",
     "Why do programmers prefer dark mode? Because light attracts bugs.",
-    "Use meaningful variable names and comments to improve code readability, making it easier for others and yourself to understand and maintain."
+    "Use meaningful variable names and comments to improve code readability, making it easier for others and yourself to understand and maintain.",
+    "Use descriptive variable names and comments to improve code readability, making it easier for others and yourself to understand your code later."
 ]
