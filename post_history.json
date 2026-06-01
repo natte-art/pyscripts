@@ -216,5 +216,6 @@
     "Use console.log with JSON.stringify to log complex objects for easier debugging, like console.log(JSON.stringify(obj, null, 2)).",
     "Why do programmers prefer dark mode? Because light attracts bugs.",
     "Use early returns to simplify conditional code and reduce nesting for better readability.",
+    "Why do programmers prefer dark mode? Because light attracts bugs.",
     "Why do programmers prefer dark mode? Because light attracts bugs."
 ]
