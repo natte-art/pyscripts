@@ -229,5 +229,6 @@
     "Use meaningful variable names and comments to improve code readability and maintainability.",
     "Use meaningful variable names and comments to improve code readability and maintainability, reducing future debugging time.",
     "Use meaningful variable names and follow camelCase or underscore notation for readability and maintainability.",
-    "Use const by default and let/var when reassignment is intended to clarify code intent."
+    "Use const by default and let/var when reassignment is intended to clarify code intent.",
+    "Use early returns to simplify code and reduce nesting, improving readability and maintainability."
 ]
