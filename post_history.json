@@ -230,5 +230,6 @@
     "Use meaningful variable names and comments to improve code readability and maintainability, reducing future debugging time.",
     "Use meaningful variable names and follow camelCase or underscore notation for readability and maintainability.",
     "Use const by default and let/var when reassignment is intended to clarify code intent.",
-    "Use early returns to simplify code and reduce nesting, improving readability and maintainability."
+    "Use early returns to simplify code and reduce nesting, improving readability and maintainability.",
+    "Why do programmers prefer dark mode? Because light attracts bugs."
 ]
