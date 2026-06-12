@@ -258,5 +258,6 @@
     "Use a consistent naming convention and include comments to explain complex code sections, improving readability and maintainability.",
     "Why do programmers prefer dark mode? Because light attracts bugs.",
     "Use try-except blocks to handle potential errors and avoid crashing your application, ensuring a better user experience.",
-    "Use console.log with JSON.stringify to pretty-print complex objects in the browser console."
+    "Use console.log with JSON.stringify to pretty-print complex objects in the browser console.",
+    "Why do programmers prefer dark mode? Because light attracts bugs."
 ]
