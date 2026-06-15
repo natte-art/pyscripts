@@ -272,5 +272,6 @@
     "Use early returns to simplify code and reduce nested if statements, improving readability.",
     "Use meaningful variable names to improve code readability, reducing debugging time and enhancing collaboration.",
     "Why do programmers prefer dark mode? Because light attracts bugs.",
-    "Why do programmers prefer dark mode? Because light attracts bugs."
+    "Why do programmers prefer dark mode? Because light attracts bugs.",
+    "Use meaningful variable names and comments to make your code readable, reducing debugging time and improving collaboration."
 ]
