@@ -275,5 +275,6 @@
     "Why do programmers prefer dark mode? Because light attracts bugs.",
     "Use meaningful variable names and comments to make your code readable, reducing debugging time and improving collaboration.",
     "Use early returns to simplify conditional logic and reduce nested code blocks, improving readability and maintainability.",
-    "Use console.log with JSON.stringify to pretty-print complex objects and arrays for easier debugging."
+    "Use console.log with JSON.stringify to pretty-print complex objects and arrays for easier debugging.",
+    "Why do programmers prefer dark mode? Because light attracts bugs."
 ]
