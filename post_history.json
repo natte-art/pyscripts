@@ -290,5 +290,6 @@
     "Use meaningful variable names to improve code readability, making it easier to understand and maintain your codebase.",
     "Why do programmers prefer dark mode? Because light attracts bugs.",
     "Use early returns to simplify conditional statements and reduce nested code, improving readability and maintainability.",
-    "Use early returns to simplify conditional logic and reduce nested code blocks for better readability."
+    "Use early returns to simplify conditional logic and reduce nested code blocks for better readability.",
+    "Use console.log with JSON.stringify to log complex objects, allowing for easier debugging and readability."
 ]
