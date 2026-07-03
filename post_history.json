@@ -345,5 +345,6 @@
     "Why do programmers prefer dark mode? Because light attracts bugs.",
     "Use descriptive variable names for better code readability, reducing debugging time and improving maintainability.",
     "Use meaningful variable names to improve code readability and maintainability, reducing debugging time and effort.",
-    "Use console.log with JSON.stringify to pretty-print JavaScript objects for easier debugging."
+    "Use console.log with JSON.stringify to pretty-print JavaScript objects for easier debugging.",
+    "Use meaningful variable names and include comments to explain complex logic, making your code more readable and maintainable."
 ]
