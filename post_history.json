@@ -344,5 +344,6 @@
     "Use try-except blocks to handle exceptions, keeping your code organized and preventing crashes.",
     "Why do programmers prefer dark mode? Because light attracts bugs.",
     "Use descriptive variable names for better code readability, reducing debugging time and improving maintainability.",
-    "Use meaningful variable names to improve code readability and maintainability, reducing debugging time and effort."
+    "Use meaningful variable names to improve code readability and maintainability, reducing debugging time and effort.",
+    "Use console.log with JSON.stringify to pretty-print JavaScript objects for easier debugging."
 ]
