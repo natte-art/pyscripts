@@ -361,5 +361,6 @@
     "Use a linter and follow a consistent naming convention to improve code readability and maintainability.",
     "Use meaningful variable names and comments to make your code self-explanatory, reducing debugging time and improving readability.",
     "Use const by default, let when reassigning, and var when required for function scope to maintain code clarity and avoid unexpected behavior.",
-    "Use early returns to simplify conditional logic and reduce nested code, making it easier to read and maintain."
+    "Use early returns to simplify conditional logic and reduce nested code, making it easier to read and maintain.",
+    "Use early returns to simplify code and reduce nested if-else statements, improving readability."
 ]
