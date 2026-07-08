@@ -364,5 +364,6 @@
     "Use early returns to simplify conditional logic and reduce nested code, making it easier to read and maintain.",
     "Use early returns to simplify code and reduce nested if-else statements, improving readability.",
     "Use try-except blocks to handle specific errors, keeping your code organized and preventing unnecessary error handling.",
-    "Use descriptive variable names to improve code readability, reducing time spent debugging and maintaining your projects."
+    "Use descriptive variable names to improve code readability, reducing time spent debugging and maintaining your projects.",
+    "Why do programmers prefer dark mode? Because light attracts bugs."
 ]
