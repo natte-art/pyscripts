@@ -366,5 +366,6 @@
     "Use try-except blocks to handle specific errors, keeping your code organized and preventing unnecessary error handling.",
     "Use descriptive variable names to improve code readability, reducing time spent debugging and maintaining your projects.",
     "Why do programmers prefer dark mode? Because light attracts bugs.",
-    "Why do programmers prefer dark mode? Because light attracts bugs."
+    "Why do programmers prefer dark mode? Because light attracts bugs.",
+    "Use meaningful variable names and include comments to explain complex code, making it easier to debug and maintain."
 ]
