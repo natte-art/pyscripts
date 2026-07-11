@@ -375,5 +375,6 @@
     "Why do programmers prefer dark mode? Because light attracts bugs.",
     "Why do programmers prefer dark mode? Because light attracts bugs.",
     "Why do programmers prefer dark mode? Because light attracts bugs.",
-    "Use optional chaining (?.) to safely navigate nested objects and avoid null pointer exceptions."
+    "Use optional chaining (?.) to safely navigate nested objects and avoid null pointer exceptions.",
+    "Use descriptive variable names and comments to improve code readability and reduce debugging time."
 ]
