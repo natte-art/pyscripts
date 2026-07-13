@@ -384,5 +384,6 @@
     "Why do programmers prefer dark mode? Because light attracts bugs.",
     "Use early returns to simplify conditional logic and reduce nested code, making your functions more readable and maintainable.",
     "Use early returns to simplify code and reduce nested indentation, making it easier to read and maintain.",
-    "Why do programmers prefer dark mode? Because light attracts bugs."
+    "Why do programmers prefer dark mode? Because light attracts bugs.",
+    "Use const by default and let/var when necessary to minimize unintended variable changes."
 ]
