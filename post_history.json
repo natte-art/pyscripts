@@ -396,5 +396,6 @@
     "Why do programmers prefer dark mode? Because light attracts bugs.",
     "Why do programmers prefer dark mode? Because light attracts bugs.",
     "Use console.log with JSON.stringify to pretty-print complex objects, making debugging easier.",
-    "Why do programmers prefer dark mode? Because light attracts bugs."
+    "Why do programmers prefer dark mode? Because light attracts bugs.",
+    "Use meaningfully named variables to improve code readability, reducing time spent debugging and understanding your own code."
 ]
