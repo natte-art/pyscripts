@@ -407,5 +407,6 @@
     "Why do programmers prefer dark mode? Because light attracts bugs.",
     "Use const by default and let when reassigned, to minimize variable scope and improve code readability.",
     "Why do programmers prefer dark mode? Because light attracts bugs.",
-    "Use console.table() to log arrays and objects in a readable table format for easier debugging."
+    "Use console.table() to log arrays and objects in a readable table format for easier debugging.",
+    "Why do programmers prefer dark mode? Because light attracts bugs."
 ]
