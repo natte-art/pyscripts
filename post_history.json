@@ -413,5 +413,6 @@
     "Why do programmers prefer dark mode? Because light attracts bugs.",
     "Why do programmers prefer dark mode? Because light attracts bugs.",
     "Use const by default, let when reassigned, and var when necessary for function scope, to clarify variable intent and avoid unexpected behavior.",
-    "Use a linter to catch errors early and enforce coding standards, saving time in the long run."
+    "Use a linter to catch errors early and enforce coding standards, saving time in the long run.",
+    "Why do programmers prefer dark mode? Because light attracts bugs."
 ]
