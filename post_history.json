@@ -411,5 +411,6 @@
     "Why do programmers prefer dark mode? Because light attracts bugs.",
     "Why do programmers prefer dark mode? Because light attracts bugs.",
     "Why do programmers prefer dark mode? Because light attracts bugs.",
-    "Why do programmers prefer dark mode? Because light attracts bugs."
+    "Why do programmers prefer dark mode? Because light attracts bugs.",
+    "Use const by default, let when reassigned, and var when necessary for function scope, to clarify variable intent and avoid unexpected behavior."
 ]
