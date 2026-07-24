@@ -426,5 +426,6 @@
     "Why do programmers prefer dark mode? Because light attracts bugs.",
     "Use a consistent naming convention and follow the DRY principle (Don't Repeat Yourself) to simplify code maintenance and readability.",
     "Why do programmers prefer dark mode? Because light attracts bugs.",
-    "Why do programmers prefer dark mode? Because light attracts bugs."
+    "Why do programmers prefer dark mode? Because light attracts bugs.",
+    "Use console.log with JSON.stringify to inspect complex objects, making debugging easier."
 ]
