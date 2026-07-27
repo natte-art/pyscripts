@@ -439,5 +439,6 @@
     "Why do programmers prefer dark mode? Because light attracts bugs.",
     "Use a linter to catch coding errors and enforce style consistency early in development, saving time and reducing bugs.",
     "Use a linter to automatically check and fix code formatting and syntax errors, saving time and improving code quality.",
-    "Use early returns to simplify conditional code, reducing nested if/else statements and improving readability."
+    "Use early returns to simplify conditional code, reducing nested if/else statements and improving readability.",
+    "Use const by default and let/var when reassignment is intended to improve code readability and reduce bugs."
 ]
