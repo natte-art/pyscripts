@@ -488,5 +488,6 @@
     "Why do programmers prefer dark mode? Because light attracts bugs.",
     "Use meaningful variable names and include comments to explain complex code, making it easier for others and yourself to understand later.",
     "Use meaningful variable names to improve code readability and reduce debugging time, making development more efficient.",
-    "Use early returns to simplify code and reduce nested if-else statements, making your code more readable."
+    "Use early returns to simplify code and reduce nested if-else statements, making your code more readable.",
+    "Why do programmers prefer dark mode? Because light attracts bugs."
 ]
