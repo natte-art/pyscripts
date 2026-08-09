@@ -491,5 +491,6 @@
     "Use early returns to simplify code and reduce nested if-else statements, making your code more readable.",
     "Why do programmers prefer dark mode? Because light attracts bugs.",
     "Why do programmers prefer dark mode? Because light attracts bugs.",
-    "Why do programmers prefer dark mode? Because light attracts bugs."
+    "Why do programmers prefer dark mode? Because light attracts bugs.",
+    "Use early returns to simplify complex conditionals and reduce nested code, improving readability and maintainability."
 ]
