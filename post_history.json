@@ -495,5 +495,6 @@
     "Use early returns to simplify complex conditionals and reduce nested code, improving readability and maintainability.",
     "Use descriptive variable names and include comments to simplify code maintenance and debugging for yourself and others.",
     "Use early returns to simplify code and reduce nested if-else statements, improving readability and maintainability.",
-    "Use meaningful variable names to improve code readability and reduce debugging time, e.g., \"userName\" instead of \"x\"."
+    "Use meaningful variable names to improve code readability and reduce debugging time, e.g., \"userName\" instead of \"x\".",
+    "Use const by default, let for reassignments, and var for function scope to maintain clear variable intentions."
 ]
