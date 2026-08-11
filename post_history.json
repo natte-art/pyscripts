@@ -499,5 +499,6 @@
     "Use const by default, let for reassignments, and var for function scope to maintain clear variable intentions.",
     "Use meaningful variable names and include comments to improve code readability and maintainability.",
     "Why do programmers prefer dark mode? Because light attracts bugs.",
-    "Use console.log with JSON.stringify to pretty-print complex objects, e.g. console.log(JSON.stringify(obj, null, 2))"
+    "Use console.log with JSON.stringify to pretty-print complex objects, e.g. console.log(JSON.stringify(obj, null, 2))",
+    "Use const by default and let/var when reassigned to improve code readability and prevent unintended changes."
 ]
