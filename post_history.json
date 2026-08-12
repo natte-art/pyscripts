@@ -505,5 +505,6 @@
     "Use meaningful variable names and include comments to explain complex logic, making your code readable and maintainable for others and your future self.",
     "Use meaningful variable names and include comments to explain complex code logic for easier debugging and maintenance.",
     "Why do programmers prefer dark mode? Because light attracts bugs.",
-    "Use descriptive variable names and include comments to simplify code readability and maintenance."
+    "Use descriptive variable names and include comments to simplify code readability and maintenance.",
+    "Use const by default, let when reassigned, and var sparingly to avoid scope issues and improve code readability."
 ]
